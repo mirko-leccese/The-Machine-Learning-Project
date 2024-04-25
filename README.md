@@ -1,5 +1,5 @@
 # The Machine Learning Project
 This repository contains a collection of Jupyter Notebooks on key **Machine Learning** and **Deep Learning algorithms**, as well as some notebooks dedicated to mathematical topics that form the basis of many of these algorithms. These notebooks stem from a summarizing process of personal study and are therefore aimed at any data scientist or scientist (physicist or chemist) who wants to delve into some machine learning algorithms and understand some of the mathematical details underlying them. The goal is not to provide a mathematically rigorous treatment of every algorithm and/or concept, but rather to discuss at least the fundamentals to be able to apply these algorithms in a more informed manner and not as a black box. For some algorithms, a from-scratch implementation in Python is also provided, for purely educational purposes. Additionally, some notebooks feature interactive visualizations to play with and observe certain explained concepts in action. In part, some notebooks can also be seen as brief tutorials on using popular Python packages for data science and scientific computing, such as `numpy`, `scipy`, `pytorch` or `scikit-learn`. Enjoy!
 
-![](images/readme_gif.mov)
+![alt-text](https://github.com/mirko-leccese/The-Machine-Learning-Project/blob/main/images/readme_demo_opt.gif)
 
