@@ -11,6 +11,7 @@ jupyterlab = "<=4.0.0"
 matplotlib = "*"
 ipywidgets = "*"
 scipy = "*"
+seaborn = "*"
 
 [dev-packages]
 
