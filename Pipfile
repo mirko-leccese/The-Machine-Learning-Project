@@ -12,6 +12,7 @@ matplotlib = "*"
 ipywidgets = "*"
 scipy = "*"
 seaborn = "*"
+torch = "*"
 
 [dev-packages]
 
