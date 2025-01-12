@@ -15,6 +15,10 @@ seaborn = "*"
 torch = "*"
 nltk = "*"
 openai = "*"
+pyspark = "*"
+graphframes = "*"
+polars = "*"
+networkx = "*"
 
 [dev-packages]
 
